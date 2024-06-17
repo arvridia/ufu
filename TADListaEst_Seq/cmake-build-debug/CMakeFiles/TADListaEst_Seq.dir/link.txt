@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/TADListaEst_Seq.dir/user.c.o CMakeFiles/TADListaEst_Seq.dir/listaEst_Seq.c.o  -o TADListaEst_Seq 

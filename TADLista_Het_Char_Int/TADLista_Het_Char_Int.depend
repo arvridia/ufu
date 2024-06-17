@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1622644928 source:d:\programas\tadlista_het_char_int\main.c
+	<stdio.h>
+	"TADLista_Het_Char_Int.h"
+
+1622642820 d:\programas\tadlista_het_char_int\tadlista_het_char_int.h
+
+1622644479 source:d:\programas\tadlista_het_char_int\tadlista_het_char_int.c
+	<stdlib.h>
+	"TADlista_Het_Char_Int.h"
+

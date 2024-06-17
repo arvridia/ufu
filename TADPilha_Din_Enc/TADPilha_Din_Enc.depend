@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1620828589 source:d:\programas\tadpilha_din_enc\tadpilha_din_enc.c
+	<stdlib.h>
+	<string.h>
+	"TADPilha_Din_Enc.h"
+
+1620828579 d:\programas\tadpilha_din_enc\tadpilha_din_enc.h
+
+1620830587 source:d:\programas\tadpilha_din_enc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TADPilha_Din_Enc.h"
+

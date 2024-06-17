@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1622603290 source:d:\programas\taddeque_est_seq_cont\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TADDeque_Est_Seq_Cont.h"
+
+1622603312 d:\programas\taddeque_est_seq_cont\taddeque_est_seq_cont.h
+
+1622603349 source:d:\programas\taddeque_est_seq_cont\taddeque_est_seq_cont.c
+	<stdlib.h>
+	"TADDeque_Est_Seq_Cont.h"
+

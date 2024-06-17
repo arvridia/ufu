@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1622056964 source:d:\programas\taddeque_est_seq_contador_int\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TADDeque_Est_Seq_contador_Int.h"
+
+1622056477 d:\programas\taddeque_est_seq_contador_int\taddeque_est_seq_contador_int.h
+

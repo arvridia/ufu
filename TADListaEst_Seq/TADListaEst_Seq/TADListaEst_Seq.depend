@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1617796901 source:d:\programas\tadlistaest_seq\tadlistaest_seq\listaest_seq.c
+	<stdlib.h>
+	"listaEst_Seq.h"
+	<string.h>
+
+1617763826 d:\programas\tadlistaest_seq\tadlistaest_seq\listaest_seq.h
+
+1617800119 source:d:\programas\tadlistaest_seq\tadlistaest_seq\main.c
+	<stdio.h>
+	"listaEst_Seq.h"
+

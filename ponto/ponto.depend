@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1617200957 source:d:\programas\ponto\ponto.c
+	<math.h>
+	"ponto.h"
+	<stdlib.h>
+
+1617200957 d:\programas\ponto\ponto.h
+
+1617200957 source:d:\programas\ponto\user.c
+	"ponto.h"
+	<stdio.h>
+
+1617200998 source:d:\programas\ponto\main.c
+	"ponto.h"
+	<stdio.h>
+

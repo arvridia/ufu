@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Arthur/CLionProjects/ponto/main.c
+ponto.h
+/mnt/c/Users/Arthur/CLionProjects/ponto/ponto.h
+stdio.h
+-
+math.h
+-
+
+/mnt/c/Users/Arthur/CLionProjects/ponto/ponto.c
+math.h
+-
+ponto.h
+/mnt/c/Users/Arthur/CLionProjects/ponto/ponto.h
+stdlib.h
+-
+
+/mnt/c/Users/Arthur/CLionProjects/ponto/ponto.h
+math.h
+-
+

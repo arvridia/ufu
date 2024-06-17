@@ -1,0 +1,3 @@
+/mnt/c/Users/Arthur/CLionProjects/TADListaEst_Seq/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Arthur/CLionProjects/TADListaEst_Seq/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Arthur/CLionProjects/TADListaEst_Seq/cmake-build-debug/CMakeFiles/TADListaEst_Seq.dir

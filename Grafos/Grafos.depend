@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1632431894 source:d:\programas\grafos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"grafo.h"
+
+1632431905 d:\programas\grafos\grafo.h
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1630378272 source:d:\programas\questao 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1630375969 d:\programas\questao 1\pilha.h
+
+1630376004 source:d:\programas\questao 1\pilha.c
+	<string.h>
+	<stdlib.h>
+	"pilha.h"
+
+1630376928 d:\programas\questao 1\func.h
+
+1630376851 source:d:\programas\questao 1\func.c
+	"func.h"
+	<stdlib.h>
+

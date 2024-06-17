@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/esfera.dir/main.c.o CMakeFiles/esfera.dir/ponto11.c.o CMakeFiles/esfera.dir/esfera11.c.o  -o esfera 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/TADcomplexos.dir/user.c.o CMakeFiles/TADcomplexos.dir/complexos.c.o  -o TADcomplexos 

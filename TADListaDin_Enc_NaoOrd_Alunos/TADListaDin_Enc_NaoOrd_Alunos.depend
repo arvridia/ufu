@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1618409513 source:d:\programas\tadlistadin_enc_naoord_alunos\main.c
+	<stdio.h>
+	"TADListaDin_Enc_NaoOrd_Alunos.h"
+
+1618409529 d:\programas\tadlistadin_enc_naoord_alunos\tadlistadin_enc_naoord_alunos.h
+
+1618403225 source:d:\programas\tadlistadin_enc_naoord_alunos\tadlistadin_enc_naoord_alunos.c
+	<stdlib.h>
+	<string.h>
+	"TADListaDin_Enc_NaoOrd_Alunos.h"
+

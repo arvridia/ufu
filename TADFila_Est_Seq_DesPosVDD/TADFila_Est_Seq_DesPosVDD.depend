@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1621827994 source:d:\programas\tadfila_est_seq_desposvdd\tadfila_est_seq_desposvdd.c
+	<stdlib.h>
+	"TADFila_Est_Seq_DesPosVDD.h"
+
+1621828008 d:\programas\tadfila_est_seq_desposvdd\tadfila_est_seq_desposvdd.h
+
+1621828081 source:d:\programas\tadfila_est_seq_desposvdd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TADFila_Est_Seq_DesPosVDD.h"
+

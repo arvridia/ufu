@@ -1,0 +1,3 @@
+/mnt/c/Users/Arthur/CLionProjects/ex1fre/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Arthur/CLionProjects/ex1fre/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Arthur/CLionProjects/ex1fre/cmake-build-debug/CMakeFiles/ex1fre.dir

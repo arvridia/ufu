@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630371763 source:d:\programas\questao3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

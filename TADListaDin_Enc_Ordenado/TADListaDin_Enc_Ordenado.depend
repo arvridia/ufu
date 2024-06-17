@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618353661 source:d:\programas\tadlistadin_enc_ordenado\main.c
+	<stdio.h>
+	"TADListaDin_Enc_Ordenado.h"
+
+1618354663 d:\programas\tadlistadin_enc_ordenado\tadlistadin_enc_ordenado.h
+
+1618354788 source:d:\programas\tadlistadin_enc_ordenado\tadlistadin_enc_ordenado.c
+	<stdlib.h>
+	"TADListaDin_Enc_Ordenado.h"
+

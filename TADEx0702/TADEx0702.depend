@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1622758449 source:d:\programas\tadex0702\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TADEx0702.h"
+
+1622658676 d:\programas\tadex0702\tadex0702.h
+
+1622758458 source:d:\programas\tadex0702\tadex0702.c
+	<stdlib.h>
+	"TADEx0702.h"
+

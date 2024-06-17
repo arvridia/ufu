@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Arthur/CLionProjects/TADcomplexos/complexos.h
+
+/mnt/c/Users/Arthur/CLionProjects/TADcomplexos/user.c
+stdio.h
+-
+complexos.h
+/mnt/c/Users/Arthur/CLionProjects/TADcomplexos/complexos.h
+

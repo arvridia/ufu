@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1620197374 source:d:\programas\tadlista_din_enc_ord_rec\tadlista_din_enc_ord_rec.c
+	<stdio.h>
+	<stdlib.h>
+	"TADLista_Din_Enc_Ord_Rec.h"
+
+1620196855 d:\programas\tadlista_din_enc_ord_rec\tadlista_din_enc_ord_rec.h
+
+1620185440 source:d:\programas\tadlista_din_enc_ord_rec\main.c
+	<stdio.h>
+	"TADLista_Din_Enc_Ord_Rec.h"
+

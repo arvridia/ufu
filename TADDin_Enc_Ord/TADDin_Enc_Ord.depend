@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1620175156 source:d:\programas\taddin_enc_ord\taddin_enc_ord.c
+	<stdlib.h>
+	"TADDin_Enc_Ord.h"
+
+1620174596 d:\programas\taddin_enc_ord\taddin_enc_ord.h
+
+1620174165 source:d:\programas\taddin_enc_ord\main.c
+	<stdio.h>
+	"TADDin_Enc_Ord.h"
+

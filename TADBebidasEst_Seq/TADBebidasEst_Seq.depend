@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1617806933 source:d:\programas\tadbebidasest_seq\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TADBebidasEst_Seq.h"
+
+1617806345 d:\programas\tadbebidasest_seq\tadbebidasest_seq.h
+
+1617806578 source:d:\programas\tadbebidasest_seq\tadbebidasest_seq.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TADBebidasEst_Seq.h"
+

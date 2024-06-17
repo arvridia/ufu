@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1622923437 source:d:\programas\tadex03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"TADEx03.h"
+
+1622779575 d:\programas\tadex03\tadex03.h
+
+1622305123 source:d:\programas\tadex03\tadex03.c
+	<stdlib.h>
+	"TADEx03.h"
+

@@ -1,0 +1,3 @@
+/mnt/c/Users/Arthur/CLionProjects/programas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Arthur/CLionProjects/programas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Arthur/CLionProjects/programas/cmake-build-debug/CMakeFiles/programas.dir

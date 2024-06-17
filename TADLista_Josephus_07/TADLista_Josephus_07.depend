@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1619478424 source:d:\programas\tadlista_enc_din_cir_07\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"TADLista_Enc_Din_Cir_07.h"
+
+1619557089 d:\programas\tadlista_enc_din_cir_07\tadlista_enc_din_cir_07.h
+
+1619557096 source:d:\programas\tadlista_enc_din_cir_07\tadlista_enc_din_cir_07.c
+	<stdlib.h>
+	<string.h>
+	"TADLista_Enc_Din_Cir_07.h"
+

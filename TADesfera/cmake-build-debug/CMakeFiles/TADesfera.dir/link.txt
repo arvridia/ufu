@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/TADesfera.dir/user.c.o CMakeFiles/TADesfera.dir/TADesfera.c.o CMakeFiles/TADesfera.dir/TADponto.c.o  -o TADesfera 

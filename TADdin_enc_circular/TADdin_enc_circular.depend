@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618995032 source:d:\programas\taddin_enc_circular\main.c
+	<stdio.h>
+	"TADdin_enc_circular.h"
+
+1619384599 d:\programas\taddin_enc_circular\taddin_enc_circular.h
+
+1618995014 source:d:\programas\taddin_enc_circular\taddin_enc_circular.c
+	<stdlib.h>
+	"TADdin_enc_circular.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1622056821 source:d:\programas\tadfpa_din_enc\tadfpa_din_enc.c
+	<stdlib.h>
+	"TADFPA_Din_Enc.h"
+
+1622054638 d:\programas\tadfpa_din_enc\tadfpa_din_enc.h
+
+1622054662 source:d:\programas\tadfpa_din_enc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TADFPA_Din_Enc.h"
+

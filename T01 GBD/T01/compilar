@@ -1,0 +1,1 @@
+gcc -Wall -Wextra -pedantic -ggdb *.c mtwister/*.c -Imtwister

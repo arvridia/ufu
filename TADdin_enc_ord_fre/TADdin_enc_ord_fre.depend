@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618397529 source:d:\programas\taddin_enc_ord_fre\main.c
+	<stdio.h>
+	"TADdin_enc_ord_fre.h"
+
+1618396170 d:\programas\taddin_enc_ord_fre\taddin_enc_ord_fre.h
+
+1618406293 source:d:\programas\taddin_enc_ord_fre\taddin_enc_ord_fre.c
+	<stdlib.h>
+	"TADdin_enc_ord_fre.h"
+

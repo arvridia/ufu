@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1632516041 source:d:\programas\tadtrabalhoaed2\main.c
+	<stdlib.h>
+	<stdio.h>
+	"grafo.h"
+	<stdio.h>
+	<stdlib.h>
+
+1632516068 d:\programas\tadtrabalhoaed2\grafo.h
+	<stdio.h>
+	<stdlib.h>
+
+1632516006 source:d:\programas\tadtrabalhoaed2\grafo.c
+	<stdlib.h>
+	<stdio.h>
+	"grafo.h"
+	"grafo.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+

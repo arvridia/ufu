@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1620825211 source:d:\programas\tadpilha_est_seq\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TADPilha_Est_Seq.h"
+
+1620823170 d:\programas\tadpilha_est_seq\tadpilha_est_seq.h
+
+1620823906 source:d:\programas\tadpilha_est_seq\tadpilha_est_seq.c
+	<string.h>
+	<stdlib.h>
+	"TADPilha_Est_Seq.h"
+

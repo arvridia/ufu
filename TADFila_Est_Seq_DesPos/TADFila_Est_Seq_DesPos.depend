@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1621826267 source:d:\programas\tadfila_est_seq_despos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"TADFila_Est_Seq_DesPos.h"
+
+1621826339 d:\programas\tadfila_est_seq_despos\tadfila_est_seq_despos.h
+
+1621827425 source:d:\programas\tadfila_est_seq_despos\tadfila_est_seq_despos.c
+	<stdlib.h>
+	"TADFila_Est_Seq_DesPos.h"
+
